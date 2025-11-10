@@ -52,7 +52,7 @@
 
 ### 📊 GitHub Stats  
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=sabarish370&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabarish370&theme=radical" alt="GitHub Streak" height="160"/>
 </p>
@@ -67,15 +67,15 @@
 
 <p align="center">
   <!-- LeetCode Stats -->
-  <a href="https://leetcode.com/sabarish370/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/sabarish370?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" height="300"/>
+  <a href="https://leetcode.com/u/dIQcwQwnTh/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/dIQcwQwnTh?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" height="300"/>
   </a>
 </p>
 
 <p align="center">
   <!-- GeeksforGeeks Stats -->
-  <a href="https://auth.geeksforgeeks.org/user/sabarish370/profile" target="_blank">
-    <img src="https://gfg-stats-card.vercel.app/default?userName=sabarish370" alt="GeeksforGeeks Stats" height="250"/>
+  <a href="https://www.geeksforgeeks.org/user/blackspiru3d/" target="_blank">
+    <img src="https://gfg-stats-card.vercel.app/default?userName=blackspiru3d&theme=dark" alt="GeeksforGeeks Stats" height="250"/>
   </a>
 </p>
 
