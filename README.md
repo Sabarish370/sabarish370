@@ -2,7 +2,7 @@
 <!-- Typing Animation -->
 <div align="center">
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student+📊;Full+Stack+Developer+🌐;Data+Analytics+%26+Visualization+Enthusiast+📊;Exploring+Data+Engineering+for+ML+💡;Always+Learning+Something+New+🧠)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student+📊;Full+Stack+Developer+🌐;Data+Analytics+%26+Visualization+Enthusiast+📊;Exploring+Data+Engineering+for+ML+💡;Always+Learning+Something+New+🧠)
 
 </div>
 
