@@ -2,7 +2,7 @@
 <!-- Typing Animation -->
 <div align="center">
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F3ACE&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Data+Analytics+%26+Visualization+Enthusiast;Exploring+Data+Engineering+for+ML;Always+Learning+Something+New)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student 📊;Full+Stack+Developer 🌐;Data+Analytics+%26+Visualization+Enthusiast 📊;Exploring+Data+Engineering+for+ML💡;Always+Learning+Something+New 🧠)
 
 </div>
 
@@ -12,9 +12,10 @@
 
 🎓 AI & Data Science student at **Rajalakshmi Engineering College**  
 💡 Passionate about building **intelligent, data-driven web applications**  
-🧠 Exploring **Data Engineering** and **Machine Learning**  
-🌱 Focused on **Full-Stack Development** using **React**, **Flask**, and **SQL**  
+🧠 Exploring **Data Engineering** and Creating insightful **data visualizations** with **Power BI**  
+🌱 Focused on **Full-Stack Development** using **MongoDB** , **ExpressJs** , **ReactJS** and **NodeJS** 
 🎨 I love crafting beautiful UI/UX and bringing ideas to life with code  
+📚 Experienced in Many Hackathons and Workshops.
 
 ---
 
@@ -39,10 +40,6 @@
 ### 📂 Featured Projects  
 
 🌤️ **[Weather App](#)** — Responsive React app using OpenWeather API  
-🧾 **[Library Management System](#)** — SQL-based system with clean web UI  
-🧠 **[AI Resume Analyzer](#)** — Flask + Gemini AI app for resume scoring  
-🖊️ **[Whiteboard Solver](#)** — Handwritten problem solver powered by AI  
-🧩 **[Quiz Generator](#)** — Generates quiz questions using AI prompts  
 
 🎯 *See more on my [Portfolio](https://sabarish370.github.io/React-Portfolio/)*  
 
@@ -75,10 +72,10 @@
   <a href="https://sabarish370.github.io/React-Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%237F3ACE.svg?&style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/" target="_blank">
+  <a href="www.linkedin.com/in/sabarish-p-5170832a2" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sabarish@example.com">
+  <a href="mailto:sabarish020605@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
