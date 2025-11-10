@@ -1,4 +1,4 @@
-# 🙋‍♂️ Hi there, Sabarish P! 
+ # 🙋‍♂️ Hi there, Sabarish P! 
 <!-- Typing Animation -->
 <div align="center">
 
@@ -10,12 +10,12 @@
 
 ### 👨‍💻 About Me  
 
-🎓 AI & Data Science student at **Rajalakshmi Engineering College**.
-💡 Passionate about building **intelligent, data-driven web applications**.
-🧠 Exploring **Data Engineering** and Creating insightful **data visualizations** with **Power BI**.
-🌱 Focused on **Full-Stack Development** using **MongoDB** , **ExpressJs** , **ReactJS** and **NodeJS**.
-🎨 I love crafting beautiful UI/UX and bringing ideas to life with code.
-📚 Experienced in Many Hackathons and Workshops.
+🎓 AI & Data Science student at **Rajalakshmi Engineering College**.  
+💡 Passionate about building **intelligent, data-driven web applications**.  
+🧠 Exploring **Data Engineering** and Creating insightful **data visualizations** with **Power BI**.  
+🌱 Focused on **Full-Stack Development** using **MongoDB** , **ExpressJs** , **ReactJS** and **NodeJS**.  
+🎨 I love crafting beautiful UI/UX and bringing ideas to life with code.  
+📚 Experienced in Many Hackathons and Workshops.  
 
 ---
 
