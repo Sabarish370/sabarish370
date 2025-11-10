@@ -1,8 +1,7 @@
 # 🙋‍♂️ Hi there, Sabarish P! 
 <!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F3ACE&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student+🎓;Full+Stack+Developer+💻;Data+Analytics+%26+Visualization+Enthusiast+📊;Exploring+Data+Engineering+for+ML+🚀;Always+Learning+Something+New+✨" alt="Typing Animation" />
-</p>
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F3ACE&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Data+Analytics+%26+Visualization+Enthusiast;Exploring+Data+Engineering+for+ML;Always+Learning+Something+New)
+
 
 ---
 
